@@ -1,5 +1,5 @@
 # Computer Vision
-## Author: Rohan Singh
+
 This is a Computer Vision repository using OpenCV, currently the source code uses the Python library for OpenCV, in the future I may add source code for the C++ library of OpenCV. The source code is divided into different repositories for different use cases of Computer Vision. This repository contains an **Introduction** directory that contains basic source code for you to learn how to use the OpenCV library in Python.  
 
 The directories in this repository are:  
@@ -15,7 +15,4 @@ To set up open cv for python on your device please follow these steps:
     > python3 -m pip install opencv-python  
   - **Test:** to check if everything went fine, please run the *main.py* script in the root directory of this repository.  
   
-## Contact
-For any question, suggestion, feedback please contact me at:  
-rohan.b.singh54@gmail.com  
-rxs1182@case.edu  
+
